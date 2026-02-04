@@ -1,6 +1,7 @@
 ```
 fn main() {
-    let _ayrock = Human {
+    let ayrock = Human {
+        name: "eric lee"
         role: "product engineer",
         company: "discord",
         location: "san diego, ca",
